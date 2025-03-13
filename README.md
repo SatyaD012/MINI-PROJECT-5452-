@@ -1,4 +1,5 @@
 Queue Implementation in C
+
 This is a simple implementation of a queue data structure in C. The queue is implemented using an array with dynamic memory allocation and supports basic queue operations such as enqueue (push), dequeue (pop), peek, checking if the queue is empty or full, and printing the elements of the queue.
 
 Features
